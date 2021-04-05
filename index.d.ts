@@ -1,4 +1,4 @@
-import { DiscordJS } from "discord.js";
+import DiscordJS from "discord.js";
 import { Client, ClientEvents, ClientOptions, Collection, Message } from "discord.js";
 
 declare class Bot {
