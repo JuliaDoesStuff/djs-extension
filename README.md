@@ -1,4 +1,4 @@
-# advanced-djs
+# djs-extension
 An extension for discord.js with command and event classes.
 
 # Features

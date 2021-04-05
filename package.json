@@ -1,14 +1,14 @@
 {
-  "name": "advanced-djs",
+  "name": "djs-extension",
   "version": "1.0.0",
   "description": "An extension for discord.js with command and event classes.",
   "main": "index.js",
-  "repository": "github:bwbjustin/advanced-djs",
+  "repository": "github:bwbjustin/djs-extension",
   "keywords": [
     "discord.js",
     "discord",
     "djs",
-    "advanced-djs"
+    "djs-extension"
   ],
   "author": "Justin Pridgen",
   "license": "ISC",
